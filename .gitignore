@@ -1,0 +1,7 @@
+Generated_Source/
+CortexM3/
+codegen/
+Export/
+*.rpt
+*.cyprj.*
+!*.cyprj
